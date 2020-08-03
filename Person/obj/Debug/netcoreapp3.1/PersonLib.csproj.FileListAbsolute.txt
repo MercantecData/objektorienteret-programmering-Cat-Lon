@@ -1,0 +1,9 @@
+C:\Users\willi\source\repos\Person\Person\bin\Debug\netcoreapp3.1\PersonLib.deps.json
+C:\Users\willi\source\repos\Person\Person\bin\Debug\netcoreapp3.1\PersonLib.dll
+C:\Users\willi\source\repos\Person\Person\bin\Debug\netcoreapp3.1\PersonLib.pdb
+C:\Users\willi\source\repos\Person\Person\obj\Debug\netcoreapp3.1\PersonLib.csprojAssemblyReference.cache
+C:\Users\willi\source\repos\Person\Person\obj\Debug\netcoreapp3.1\PersonLib.AssemblyInfoInputs.cache
+C:\Users\willi\source\repos\Person\Person\obj\Debug\netcoreapp3.1\PersonLib.AssemblyInfo.cs
+C:\Users\willi\source\repos\Person\Person\obj\Debug\netcoreapp3.1\PersonLib.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\Person\Person\obj\Debug\netcoreapp3.1\PersonLib.dll
+C:\Users\willi\source\repos\Person\Person\obj\Debug\netcoreapp3.1\PersonLib.pdb
