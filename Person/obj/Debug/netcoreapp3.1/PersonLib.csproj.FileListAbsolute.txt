@@ -7,3 +7,12 @@ C:\Users\willi\source\repos\Person\Person\obj\Debug\netcoreapp3.1\PersonLib.Asse
 C:\Users\willi\source\repos\Person\Person\obj\Debug\netcoreapp3.1\PersonLib.csproj.CoreCompileInputs.cache
 C:\Users\willi\source\repos\Person\Person\obj\Debug\netcoreapp3.1\PersonLib.dll
 C:\Users\willi\source\repos\Person\Person\obj\Debug\netcoreapp3.1\PersonLib.pdb
+C:\Users\willi\OneDrive\Skrivebord\objektorienteret-programmering-Cat-Lon\Person\bin\Debug\netcoreapp3.1\PersonLib.deps.json
+C:\Users\willi\OneDrive\Skrivebord\objektorienteret-programmering-Cat-Lon\Person\bin\Debug\netcoreapp3.1\PersonLib.dll
+C:\Users\willi\OneDrive\Skrivebord\objektorienteret-programmering-Cat-Lon\Person\bin\Debug\netcoreapp3.1\PersonLib.pdb
+C:\Users\willi\OneDrive\Skrivebord\objektorienteret-programmering-Cat-Lon\Person\obj\Debug\netcoreapp3.1\PersonLib.csprojAssemblyReference.cache
+C:\Users\willi\OneDrive\Skrivebord\objektorienteret-programmering-Cat-Lon\Person\obj\Debug\netcoreapp3.1\PersonLib.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Skrivebord\objektorienteret-programmering-Cat-Lon\Person\obj\Debug\netcoreapp3.1\PersonLib.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Skrivebord\objektorienteret-programmering-Cat-Lon\Person\obj\Debug\netcoreapp3.1\PersonLib.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Skrivebord\objektorienteret-programmering-Cat-Lon\Person\obj\Debug\netcoreapp3.1\PersonLib.dll
+C:\Users\willi\OneDrive\Skrivebord\objektorienteret-programmering-Cat-Lon\Person\obj\Debug\netcoreapp3.1\PersonLib.pdb

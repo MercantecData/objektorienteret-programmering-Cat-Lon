@@ -8,10 +8,16 @@
     ".NETCoreApp,Version=v3.1": {
       "Test/1.0.0": {
         "dependencies": {
+          "DictionaryTest": "1.0.0",
           "PersonLib": "1.0.0"
         },
         "runtime": {
           "Test.dll": {}
+        }
+      },
+      "DictionaryTest/1.0.0": {
+        "runtime": {
+          "DictionaryTest.dll": {}
         }
       },
       "PersonLib/1.0.0": {
@@ -23,6 +29,11 @@
   },
   "libraries": {
     "Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DictionaryTest/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

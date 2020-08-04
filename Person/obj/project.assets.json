@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\willi\\source\\repos\\Person\\Person\\PersonLib.csproj",
+      "projectUniqueName": "C:\\Users\\willi\\OneDrive\\Skrivebord\\objektorienteret-programmering-Cat-Lon\\Person\\PersonLib.csproj",
       "projectName": "PersonLib",
-      "projectPath": "C:\\Users\\willi\\source\\repos\\Person\\Person\\PersonLib.csproj",
+      "projectPath": "C:\\Users\\willi\\OneDrive\\Skrivebord\\objektorienteret-programmering-Cat-Lon\\Person\\PersonLib.csproj",
       "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\willi\\source\\repos\\Person\\Person\\obj\\",
+      "outputPath": "C:\\Users\\willi\\OneDrive\\Skrivebord\\objektorienteret-programmering-Cat-Lon\\Person\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
