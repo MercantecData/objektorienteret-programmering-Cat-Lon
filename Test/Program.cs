@@ -30,7 +30,7 @@ namespace Test
             personList.AddPerson(person1);
             personList.AddPerson(person2);
 
-            personList.Organize(personList);
+            personList.Organize();
             foreach (Person element in personList.personList)
             {
                 Console.WriteLine(element.name + " " + element.age + " " + element.work.name);

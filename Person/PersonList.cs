@@ -18,9 +18,9 @@ namespace PersonLib
         {
             personList.Add(person);
         }
-        public void Organize(PersonList person)
+        public void Organize()
         {
-            foreach (Person element in person.personList)
+            foreach (Person element in personList)
             {
                 if (element.work.hired)
                 {
