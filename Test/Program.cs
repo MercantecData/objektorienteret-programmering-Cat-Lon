@@ -9,8 +9,12 @@ namespace Test
     {
         static void Main(string[] args)
         {
+            PersonLibTest();
+        }
+        static void DictionaryLibTest()
+        {
             DictionaryThings InitializedDictionary = new DictionaryThings();
-            Console.WriteLine(InitializedDictionary.kFloat[1]); 
+            Console.WriteLine(InitializedDictionary.kFloat[1]);
             Dictionary<KeyClass, string> bonusDict = new Dictionary<KeyClass, string>();
         }
         static void PersonLibTest()
@@ -26,9 +30,11 @@ namespace Test
             personList.AddPerson(person1);
             personList.AddPerson(person2);
 
+            personList.Organize(personList);
             foreach (Person element in personList.personList)
             {
                 Console.WriteLine(element.name + " " + element.age + " " + element.work.name);
+                Console.WriteLine(personList.workDictionary[element.name]);
             }
         }
     }

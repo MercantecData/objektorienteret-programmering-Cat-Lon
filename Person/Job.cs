@@ -10,11 +10,17 @@ namespace PersonLib
         public int wage;
         public string name;
 
-        public Job(int wage, string name, bool hired = false)
+        public Job(int wage, string name, bool hired)
         {
             this.hired = hired;
             this.wage = wage;
             this.name = name;
+        }
+        public Job(int wage, string name)
+        {
+            this.wage = wage;
+            this.name = name;
+            this.hired = false;
         }
     }
 }
