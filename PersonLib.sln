@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersonLib", "Person\PersonL
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "Test\Test.csproj", "{229FF78B-F872-4669-9592-64420E23A749}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryTest", "DictionaryThings\DictionaryTest.csproj", "{F31CF9CC-5236-4F65-91EE-D6C6B71FACD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictionaryTest", "DictionaryThings\DictionaryTest.csproj", "{F31CF9CC-5236-4F65-91EE-D6C6B71FACD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathsLib", "Maths\MathsLib.csproj", "{A46913EF-F62B-426A-8B49-FE8573D10846}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{F31CF9CC-5236-4F65-91EE-D6C6B71FACD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F31CF9CC-5236-4F65-91EE-D6C6B71FACD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F31CF9CC-5236-4F65-91EE-D6C6B71FACD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A46913EF-F62B-426A-8B49-FE8573D10846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A46913EF-F62B-426A-8B49-FE8573D10846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A46913EF-F62B-426A-8B49-FE8573D10846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A46913EF-F62B-426A-8B49-FE8573D10846}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

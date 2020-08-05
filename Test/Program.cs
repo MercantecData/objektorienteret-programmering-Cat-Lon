@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using PersonLib;
 using DictionaryTest;
+using MathsLib;
 
 namespace Test
 {
@@ -9,7 +10,7 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            PersonLibTest();
+
         }
         static void DictionaryLibTest()
         {

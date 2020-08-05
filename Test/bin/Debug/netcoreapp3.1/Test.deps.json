@@ -9,6 +9,7 @@
       "Test/1.0.0": {
         "dependencies": {
           "DictionaryTest": "1.0.0",
+          "MathsLib": "1.0.0",
           "PersonLib": "1.0.0"
         },
         "runtime": {
@@ -18,6 +19,11 @@
       "DictionaryTest/1.0.0": {
         "runtime": {
           "DictionaryTest.dll": {}
+        }
+      },
+      "MathsLib/1.0.0": {
+        "runtime": {
+          "MathsLib.dll": {}
         }
       },
       "PersonLib/1.0.0": {
@@ -34,6 +40,11 @@
       "sha512": ""
     },
     "DictionaryTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MathsLib/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
