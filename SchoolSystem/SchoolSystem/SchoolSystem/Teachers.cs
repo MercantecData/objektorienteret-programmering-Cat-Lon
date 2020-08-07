@@ -9,7 +9,7 @@ namespace SchoolSystem
         private string name;
         private bool bHasBeenPaid;
         private Teams team;
-
+        private Teachers teachers;
         public Teachers(string name)
         {
             this.name = name;
@@ -21,7 +21,7 @@ namespace SchoolSystem
             this.team = teams;
             this.bHasBeenPaid = false;
         }
-        public void AddToTeam(Teams team, Teachers teachers)
+        public void AddToTeam(Teams team)
         { 
             if(this.team != null) { this.team.RemoveMember(teachers); }
             this.team = team;

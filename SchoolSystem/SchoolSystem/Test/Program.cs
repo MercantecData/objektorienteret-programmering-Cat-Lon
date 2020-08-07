@@ -16,7 +16,7 @@ namespace Test
             List<Teams> teams = school.GetTeams();
 
             students[0].RemoveFromTeam();
-            teachers[0].AddToTeam(teams[0],teachers[0]);
+            teachers[0].AddToTeam(teams[0]);
             teams[0].GetStudents();
         }
     }
