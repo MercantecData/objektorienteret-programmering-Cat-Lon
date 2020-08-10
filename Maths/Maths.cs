@@ -20,17 +20,14 @@ namespace MathsLib
             string numOutput = $"{num1S + num2S}";
             return numOutput;
         }
-
         public int Divide(int num1, int num2)
         {
             return num1 / num2;
         }
-
         public float Divide(float num1, float num2)
         {
             return num1 / num2;
         }
-
         public string Divide(string num1, string num2)
         {
             int num1S = Int32.Parse(num1);
@@ -38,7 +35,6 @@ namespace MathsLib
             string numOutput = $"{num1S / num2S}";
             return numOutput;
         }
-
         public int Multiply(int num1, int num2)
         {
             return num1 * num2;

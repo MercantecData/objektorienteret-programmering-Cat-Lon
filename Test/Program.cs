@@ -11,7 +11,11 @@ namespace Test
     {
         static void Main(string[] args)
         {
+            Maths math;
 
+            Dictionary<float, bool> floatDict = new Dictionary<float, bool>();
+            floatDict[13] = true;
+            floatDict.Add(42, false);
         }
         static void DictionaryLibTest()
         {

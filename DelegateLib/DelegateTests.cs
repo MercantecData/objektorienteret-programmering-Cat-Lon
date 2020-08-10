@@ -29,6 +29,7 @@ namespace DelegateLib
         {
             DoubleDelegate doubleThis;
             doubleThis = (int num1) => { return num1 = num1 * 2; };
+            doubleThis(2);
 
             TripleTrouble trouble;
             trouble = (float num1, float num2, float num3) => { return num1 + num2 + num3; };
