@@ -16,3 +16,11 @@ C:\Users\willi\OneDrive\Skrivebord\objektorienteret-programmering-Cat-Lon\Person
 C:\Users\willi\OneDrive\Skrivebord\objektorienteret-programmering-Cat-Lon\Person\obj\Debug\netcoreapp3.1\PersonLib.csproj.CoreCompileInputs.cache
 C:\Users\willi\OneDrive\Skrivebord\objektorienteret-programmering-Cat-Lon\Person\obj\Debug\netcoreapp3.1\PersonLib.dll
 C:\Users\willi\OneDrive\Skrivebord\objektorienteret-programmering-Cat-Lon\Person\obj\Debug\netcoreapp3.1\PersonLib.pdb
+C:\Users\william\Desktop\objektorienteret-programmering-Cat-Lon\Person\bin\Debug\netcoreapp3.1\PersonLib.deps.json
+C:\Users\william\Desktop\objektorienteret-programmering-Cat-Lon\Person\bin\Debug\netcoreapp3.1\PersonLib.dll
+C:\Users\william\Desktop\objektorienteret-programmering-Cat-Lon\Person\bin\Debug\netcoreapp3.1\PersonLib.pdb
+C:\Users\william\Desktop\objektorienteret-programmering-Cat-Lon\Person\obj\Debug\netcoreapp3.1\PersonLib.csprojAssemblyReference.cache
+C:\Users\william\Desktop\objektorienteret-programmering-Cat-Lon\Person\obj\Debug\netcoreapp3.1\PersonLib.AssemblyInfoInputs.cache
+C:\Users\william\Desktop\objektorienteret-programmering-Cat-Lon\Person\obj\Debug\netcoreapp3.1\PersonLib.AssemblyInfo.cs
+C:\Users\william\Desktop\objektorienteret-programmering-Cat-Lon\Person\obj\Debug\netcoreapp3.1\PersonLib.dll
+C:\Users\william\Desktop\objektorienteret-programmering-Cat-Lon\Person\obj\Debug\netcoreapp3.1\PersonLib.pdb

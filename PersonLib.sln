@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MathsLib", "Maths\MathsLib.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegateLib", "DelegateLib\DelegateLib.csproj", "{19F6EEAC-D209-4579-850F-42264E1F38B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractLib", "AbstractLib\AbstractLib.csproj", "{DF864C60-9FB4-4B0B-943B-37D5FBD4C669}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractLib", "AbstractLib\AbstractLib.csproj", "{DF864C60-9FB4-4B0B-943B-37D5FBD4C669}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLib", "GameLib\GameLib.csproj", "{A6C1DF6F-7E0D-4CC3-A138-E450A5AF9AFD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{DF864C60-9FB4-4B0B-943B-37D5FBD4C669}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF864C60-9FB4-4B0B-943B-37D5FBD4C669}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF864C60-9FB4-4B0B-943B-37D5FBD4C669}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6C1DF6F-7E0D-4CC3-A138-E450A5AF9AFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6C1DF6F-7E0D-4CC3-A138-E450A5AF9AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6C1DF6F-7E0D-4CC3-A138-E450A5AF9AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6C1DF6F-7E0D-4CC3-A138-E450A5AF9AFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

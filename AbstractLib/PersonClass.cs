@@ -4,7 +4,7 @@ using System.Collections.ObjectModel;
 
 namespace AbstractLib
 {
-    public abstract class PersonClass : Iname, IComparable
+    public abstract class PersonClass : Iname //IComparable
     {
         protected string name;
         protected int age;
@@ -19,20 +19,20 @@ namespace AbstractLib
 
         public abstract void AgePlus(int age, int plus);
 
-        public int CompareTo(object obj)
+        /*public int CompareTo(object obj)
         {
             obj = obj as PersonClass;
-        }
+        }*/
 
         public abstract void FirstLetter(string name);
 
         public abstract void NameChange(string name);
-        public List<PersonClass> SortPeople(List<PersonClass> people)
+        /*public List<PersonClass> SortPeople(List<PersonClass> people)
         {
             foreach(PersonClass var in people)
             {
                 
             }
-        }
+        }*/
     }
 }

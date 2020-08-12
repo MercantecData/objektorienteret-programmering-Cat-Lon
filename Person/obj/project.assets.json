@@ -8,23 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\willi\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\william\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\willi\\OneDrive\\Skrivebord\\objektorienteret-programmering-Cat-Lon\\Person\\PersonLib.csproj",
+      "projectUniqueName": "C:\\Users\\william\\Desktop\\objektorienteret-programmering-Cat-Lon\\Person\\PersonLib.csproj",
       "projectName": "PersonLib",
-      "projectPath": "C:\\Users\\willi\\OneDrive\\Skrivebord\\objektorienteret-programmering-Cat-Lon\\Person\\PersonLib.csproj",
-      "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\willi\\OneDrive\\Skrivebord\\objektorienteret-programmering-Cat-Lon\\Person\\obj\\",
+      "projectPath": "C:\\Users\\william\\Desktop\\objektorienteret-programmering-Cat-Lon\\Person\\PersonLib.csproj",
+      "packagesPath": "C:\\Users\\william\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\william\\Desktop\\objektorienteret-programmering-Cat-Lon\\Person\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\willi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\william\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -62,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

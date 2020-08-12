@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using PersonLib;
 using DictionaryTest;
 using MathsLib;
-using System.Reflection.Metadata.Ecma335;
 using AbstractLib;
+using GameLib;
+using System.Threading.Tasks;
 
 namespace Test
 {
@@ -12,7 +13,15 @@ namespace Test
     {
         static void Main(string[] args)
         {
-
+            Task task = GameClass.Timer(1,10);
+            if(Console.ReadLine() == "2")
+            {
+                Console.WriteLine("you win!");
+            }
+            else
+            {
+                Console.WriteLine("try again");
+            }
         }
         static void DictionaryLibTest()
         {
