@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\AbstractLib\AbstractLib.csproj" />
     <ProjectReference Include="..\DictionaryThings\DictionaryTest.csproj" />
     <ProjectReference Include="..\Maths\MathsLib.csproj" />
     <ProjectReference Include="..\Person\PersonLib.csproj" />
