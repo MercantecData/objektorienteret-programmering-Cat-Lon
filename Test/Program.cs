@@ -14,18 +14,23 @@ namespace Test
         static void Main(string[] args)
         {
             Task task = GameClass.Timer(1,10);
-            string text = "you Win!";
-            if(Console.ReadLine() == "2")
+            bool gameEnded = false;
+            string input;
+            while (GameClass.timeLeft > 0 && !gameEnded)
             {
-                Console.WriteLine(text);
-                GameClass.StopTask();
+                input = Console.ReadLine();
+                if(input == "2" && GameClass.timeLeft > 0)
+                {
+                    Console.WriteLine("you win!");
+                    GameClass.StopTask();
+                    gameEnded = true;
+                }
+                else
+                {
+                    Console.WriteLine("try again!");
+                }
             }
-            else
-            {
-                text = "You lose";
-                Console.WriteLine(text);
-                GameClass.StopTask();
-            }
+            
         }
         static void DictionaryLibTest()
         {
