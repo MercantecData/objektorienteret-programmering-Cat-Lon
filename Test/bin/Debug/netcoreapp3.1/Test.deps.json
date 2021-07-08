@@ -1,0 +1,80 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Test/1.0.0": {
+        "dependencies": {
+          "AbstractLib": "1.0.0",
+          "DictionaryTest": "1.0.0",
+          "GameLib": "1.0.0",
+          "MathsLib": "1.0.0",
+          "PersonLib": "1.0.0"
+        },
+        "runtime": {
+          "Test.dll": {}
+        }
+      },
+      "AbstractLib/1.0.0": {
+        "runtime": {
+          "AbstractLib.dll": {}
+        }
+      },
+      "DictionaryTest/1.0.0": {
+        "runtime": {
+          "DictionaryTest.dll": {}
+        }
+      },
+      "GameLib/1.0.0": {
+        "runtime": {
+          "GameLib.dll": {}
+        }
+      },
+      "MathsLib/1.0.0": {
+        "runtime": {
+          "MathsLib.dll": {}
+        }
+      },
+      "PersonLib/1.0.0": {
+        "runtime": {
+          "PersonLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AbstractLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DictionaryTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GameLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MathsLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PersonLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
